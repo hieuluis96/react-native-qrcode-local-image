@@ -1,7 +1,7 @@
 {
     "name": "@remobile/react-native-qrcode-local-image",
     "version": "1.0.4",
-    "qrcode-local-imagecription": "A local qrcode image parse for react-native",
+    "description": "A local qrcode image parse for react-native",
     "main": "index.js",
     "author": {
         "name": "YunJiang.Fang",
